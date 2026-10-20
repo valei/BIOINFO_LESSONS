@@ -9,5 +9,11 @@ dependencies:
   - python=3.12
   - pip
   - jupyterlab
+  - samtools
+  - fastqc
+  - fastp
+  - bowtie2
+  - star
+  - htseq
 
 prefix: /opt/conda
